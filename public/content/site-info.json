@@ -1,0 +1,46 @@
+{
+  "clinic": {
+    "name": "คลินิกทันตกรรมบิ๊กเกอร์สไมล์คลินิก",
+    "shortName": "Bigger Smile",
+    "subtitle": "Dental Clinic",
+    "phone": "094 446 1404 (Bigger Smile)",
+    "address": "84/7-8 ชั้น 2 ม.2 ต.ชุมพล อ.ศรีเกษ จ.ศรีสะเกษ 33150"
+  },
+  "businessHours": {
+    "weekdays": {
+      "days": "จันทร์ - ศุกร์",
+      "hours": "16:30 - 20:00"
+    },
+    "weekends": {
+      "days": "ส.-อา. และวันหยุด",
+      "hours": "10:00 - 20:00"
+    },
+    "holidays": {
+      "days": "วันหยุดนักขัตฤกษ์",
+      "hours": "10:00 - 20:00"
+    }
+  },
+  "socialMedia": {
+    "facebook": {
+      "url": "https://www.facebook.com/biggersm",
+      "name": "Bigger Smile Dental Clinic",
+      "icon": "/assets/icons/facebook.png"
+    },
+    "line": {
+      "url": "https://lin.ee/cbUw7SB",
+      "name": "@bigger_smile",
+      "icon": "/assets/icons/line.png"
+    }
+  },
+  "navigation": [
+    { "href": "/", "label": "หน้าหลัก" },
+    { "href": "/services", "label": "บริการของเรา" },
+    { "href": "/cure_rate", "label": "อัตราการรักษา" },
+    { "href": "/Interesting-facts", "label": "สาระน่ารู้" },
+    { "href": "https://www.facebook.com/biggersm", "label": "ติดต่อ" }
+  ],
+  "assets": {
+    "logo": "/assets/Logo/logo.png",
+    "qrCode": "/assets/Qrcode/qr-code.png"
+  }
+}

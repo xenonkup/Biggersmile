@@ -1,0 +1,52 @@
+{
+  "services": [
+    {
+      "title": "จัดฟัน",
+      "description": "การจัดฟันช่วยแก้ไขการเรียงตัวของฟันและขากรรไกรให้อยู่ในตำแหน่งที่เหมาะสม เพื่อรอยยิ้มที่สวยงามและการบดเคี้ยวที่ดีขึ้น",
+      "image": "/assets/servicesimg/Dental_care.jpg",
+      "link": "/services/getting-braces"
+    },
+    {
+      "title": "ฟันปลอม",
+      "description": "ฟันปลอมช่วยทดแทนฟันธรรมชาติที่สูญเสียไปจากอุบัติเหตุ โรคเหงือก หรือฟันผุ เพื่อคืนรอยยิ้มและการใช้งานที่สมบูรณ์",
+      "image": "/assets/servicesimg/False_teeth.jpg",
+      "link": "/services/dentures"
+    },
+    {
+      "title": "ขูดหินปูน",
+      "description": "การขูดหินปูนช่วยกำจัดคราบหินปูนและคราบแข็งที่สะสมบนฟัน เพื่อป้องกันโรคเหงือกและรักษาสุขภาพช่องปากให้ดี",
+      "image": "/assets/servicesimg/Teeth_scaling.jpg",
+      "link": "/services/scaling"
+    },
+    {
+      "title": "อุดฟัน",
+      "description": "การอุดฟันช่วยรักษาฟันที่ผุหรือเสียหาย โดยกำจัดส่วนที่ผุและเติมวัสดุ เพื่อป้องกันการผุลุกลามและคืนการใช้งาน",
+      "image": "/assets/servicesimg/Dental_filling.png",
+      "link": "/services/filling"
+    },
+    {
+      "title": "ศัลยกรรมช่องปาก",
+      "description": "ศัลยกรรมช่องปาก เช่น การถอนฟันคุดหรือผ่าตัดขากรรไกร เพื่อแก้ไขปัญหาที่ซับซ้อนและปรับปรุงสุขภาพช่องปาก",
+      "image": "/assets/servicesimg/female-dentist-treating-patient-s-teeth-clinic.jpg",
+      "link": "/services/oral-surger"
+    },
+    {
+      "title": "รักษารากฟัน",
+      "description": "การรักษารากฟันช่วยรักษาฟันที่ติดเชื้อหรือเสียหายรุนแรง เพื่อป้องกันการสูญเสียฟันและรักษาการทำงานของฟัน",
+      "image": "/assets/servicesimg/Root_canal_treatment1.jpg",
+      "link": "/services/root-canal"
+    },
+    {
+      "title": "ทันตกรรมเพื่อความงาม",
+      "description": "ทันตกรรมเพื่อความงาม เช่น การฟอกสีฟันหรือวีเนียร์ ช่วยเพิ่มรอยยิ้มที่มั่นใจและสวยงามตามที่คุณต้องการ",
+      "image": "/assets/servicesimg/Cosmetic_dentistry.jpg",
+      "link": "/services/cosmetic-dentistry"
+    },
+    {
+      "title": "ถ่ายภาพรังสี",
+      "description": "การถ่ายภาพรังสีช่วยในการวินิจฉัยปัญหาฟันและขากรรไกร เพื่อวางแผนการรักษาที่แม่นยำและมีประสิทธิภาพ",
+      "image": "/assets/servicesimg/X.jpg",
+      "link": "/services/x-ray"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "facts": [
+    {
+      "title": "ฟันผุเป็นหนองเกิดจากอะไร",
+      "image": "/assets/fact_img/fact1.jpg",
+      "date": "24 มีนาคม 2020",
+      "author": "Bigger Smile",
+      "path": "/Interesting_facts/fact1"
+    },
+    {
+      "title": "ฟันผุ รักษาฟันได้หรือไม่",
+      "image": "/assets/fact_img/fact2.jpg",
+      "date": "15 เมษายน 2020",
+      "author": "Bigger Smile",
+      "path": "/Interesting_facts/fact2"
+    },
+    {
+      "title": "ฟันน้ำนมผุ รักษาได้หรือไม่",
+      "image": "/assets/fact_img/fact3.jpg",
+      "date": "12 พฤษภาคม 2020",
+      "author": "Bigger Smile",
+      "path": "/Interesting_facts/fact3"
+    },
+    {
+      "title": "ฟันสุกจำนวนมาก รักษายังไง?",
+      "image": "/assets/fact_img/fact4.jpg",
+      "date": "7 กรกฎาคม 2020",
+      "author": "Bigger Smile",
+      "path": "/Interesting_facts/fact4"
+    },
+    {
+      "title": "ถอนฟันกราม เจ็บมากแค่ไหน",
+      "image": "/assets/fact_img/fact5.jpg",
+      "date": "15 กรกฎาคม 2020",
+      "author": "Bigger Smile",
+      "path": "/Interesting_facts/fact5"
+    },
+    {
+      "title": "จัดฟันเสร็จแล้ว ทำไมต้องใส่",
+      "image": "/assets/fact_img/fact6.jpg",
+      "date": "5 ตุลาคม 2020",
+      "author": "Bigger Smile",
+      "path": "/Interesting_facts/fact6"
+    }
+  ]
+}

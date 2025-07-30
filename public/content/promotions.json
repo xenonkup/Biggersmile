@@ -1,0 +1,9 @@
+{
+  "promotions": [
+    { "image": "/assets/Promotion/1.png" },
+    { "image": "/assets/Promotion/2.png" },
+    { "image": "/assets/Promotion/3.png" },
+    { "image": "/assets/Promotion/4.png" },
+    { "image": "/assets/Promotion/5.png" }
+  ]
+}
