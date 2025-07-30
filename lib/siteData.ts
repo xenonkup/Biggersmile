@@ -135,7 +135,7 @@ export interface ServiceDetail {
 // ข้อมูลพื้นฐานของคลินิก ใช้ทั่วทั้งเว็บไซต์
 export const siteInfo: SiteInfo = {
   clinic: {
-    name: "คลินิกทันตกรรมบิ๊กเกอร์สไมล์คลินิก",
+    name: "คลีนิกทันตกรรมบิ๊กเกอร์สไมล์",
     shortName: "Bigger Smile",
     subtitle: "Dental Clinic",
     phone: "094 446 1404 (Bigger Smile)",
@@ -1069,7 +1069,7 @@ export const uiText = {
   servicesFromDentist: "บริการจากทันตแพทย์",
   ourExperts: "ผู้เชี่ยวชาญของเรา",
   comprehensiveService: "เราให้บริการและคำปรึกษาที่ครอบคลุม ดูแลทุกเรื่องช่องปาก",
-  
+
   // Service detail labels
   characteristics: "ลักษณะ:",
   advantages: "ข้อดี:",
