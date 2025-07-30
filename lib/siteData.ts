@@ -1069,6 +1069,7 @@ export const uiText = {
   servicesFromDentist: "บริการจากทันตแพทย์",
   ourExperts: "ผู้เชี่ยวชาญของเรา",
   comprehensiveService: "เราให้บริการและคำปรึกษาที่ครอบคลุม ดูแลทุกเรื่องช่องปาก",
+  
   // Service detail labels
   characteristics: "ลักษณะ:",
   advantages: "ข้อดี:",
